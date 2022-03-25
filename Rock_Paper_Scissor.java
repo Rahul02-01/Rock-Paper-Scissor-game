@@ -1,4 +1,3 @@
-package com.company;
 import java.util.*;
 
 public class Rock_Paper_Scissor{
